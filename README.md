@@ -11,9 +11,9 @@ Thanks for checking out this Coding Ninjas
 
 [Coding Ninjas](https://www.codingninjas.com/) challenges help you improve your coding skills by building realistic projects.
 
-**To do this challenge, you need a good understanding of HTML, CSS and JavaScript.
+**To do this challenge, you need a good understanding of HTML & CSS.
 <br><br>
-**My solution : <a href="">Music Player<a>**
+**My solution : <a href="https://649ed04f4b92510ce32cfa93--reliable-ganache-61be7b.netlify.app/">Music Player<a>**
 ## The challenge
 
 Your challenge is to build out this todo app and get it looking as close to the design as possible.
